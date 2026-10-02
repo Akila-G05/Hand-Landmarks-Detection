@@ -86,4 +86,4 @@ requirements.txt
 
 ## License
 
-This project is private and proprietary.
+MIT — see [LICENSE](LICENSE).
